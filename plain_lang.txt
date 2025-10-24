@@ -1,0 +1,11 @@
+Are the slopes equal?
+F = 0.6992. DFn = 6, DFd = 24
+P=0.6529
+
+If the overall slopes were identical, there is a 65.29% chance of randomly choosing data points with slopes this different. You can conclude that the differences between the slopes are not significant.
+
+Are the elevations equal?
+F = 2.9241. DFn = 3, DFd = 30
+P=0.0499
+
+If the overall elevations were identical, there is a 4.99% chance of randomly choosing data points with elevations this different. You can conclude that the differences between the elevations are significant.
